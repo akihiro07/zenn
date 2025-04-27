@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/akihiro07/zenn#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.119"
+    "zenn-cli": "^0.1.159"
   }
 }
